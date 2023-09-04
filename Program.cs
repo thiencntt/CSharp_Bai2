@@ -13,6 +13,7 @@ namespace CSharp_Bai2
             Console.Write("Nhap ten cua ban: ");
             string ten = Console.ReadLine();
             Console.WriteLine("Hello {0}!",ten);
+            Console.WriteLine("Hello {0}!", ten);
             Console.ReadKey();
         }
     }
